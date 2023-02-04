@@ -5,7 +5,7 @@ structure of **verbi.json** contain 16300 infinite form verbs in one line and lo
 ```json
 [
   {
-    "verb" : "nome del verbo infinito",
+    "verbo" : "nome del verbo infinito",
     "congiunzione" : [
       {
         "tempo" : "indicativo presente",
